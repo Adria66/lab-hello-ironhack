@@ -1,0 +1,85 @@
+.App {
+    font-family: 'Roboto', sans-serif;
+}
+
+.topBody {
+    background-color: #1F2535;
+    color: white; 
+    margin: 2vw;
+    padding: 0 0 5vw;
+}
+
+.nav {
+    background-color: #1F2535;
+    display: flex;
+    justify-content: space-between;
+    padding: 2vw 10vw;
+}
+
+.info-logo {
+    display: flex;
+}
+
+.introText {
+    width: 40vw;
+    padding: 0 0 0 7vw;
+}
+
+.introText h1 {
+    font-size: 100px;
+}
+
+.introText p {
+    font-size: 2vw;
+    margin: 2vw 0;
+    /* padding: 0 20vw 0 0; */
+}
+
+.introText button {
+    background-color: white;
+    color: #1F2535;
+    border: none;
+    width: 15vw;
+    height: 5vw;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2vw;
+    margin: 5vw 0;
+}
+
+.logo {
+    width: 48vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.react-logo {
+    width: 12vw;
+}
+
+.cards {
+    color: #1F2535;
+    /* margin: 0vw 1vw; */
+    padding: 0vw 5vw;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Card {
+    padding: 3vw;
+}
+.Card h4{    
+    font-size: 2.5vw;
+    margin: 1.5vw 0;
+}
+
+.Card p{    
+    font-size: 1.5vw;
+}
+
+
+
+
+
